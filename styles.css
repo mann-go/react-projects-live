@@ -155,7 +155,7 @@
     background-color: var(--ghost-white);
     border-radius: var(--border-radius);
     padding: var(--padding);
-    height: 200px;
+    height: 250px;
     overflow: hidden;
     transition: 0.5s ease;
   }
